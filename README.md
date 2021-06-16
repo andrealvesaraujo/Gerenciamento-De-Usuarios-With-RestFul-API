@@ -1,3 +1,4 @@
-# Udemy_Javascript_Completo
+#  Gerenciador de Usuários Restful-API
 
-Curso Da Udemy de Javascript feito em 2021. Aqui está ele: https://www.udemy.com/course/curso-html5-css3-javascript/ 
+Projeto de Gerenciador de Usuários Restful-API desenvolvida no Curso Completo de JavaScript na Udemy.com em 2021
+(https://www.udemy.com/course/javascript-curso-completo/). 
